@@ -1,0 +1,226 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\SASANK CHUNDURI\\Desktop\\Daivest\\contracts\\Vault.sol": {
+      "lastModificationDate": 1670942350309,
+      "contentHash": "0a824302779957a68cc2c11144fe7c69",
+      "sourceName": "contracts/Vault.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "solmate/src/tokens/ERC20.sol",
+        "solmate/src/mixins/ERC4626.sol"
+      ],
+      "versionPragmas": [
+        ">=0.8.0"
+      ],
+      "artifacts": [
+        "Vault"
+      ]
+    },
+    "C:\\Users\\SASANK CHUNDURI\\Desktop\\Daivest\\node_modules\\.pnpm\\solmate@6.6.1\\node_modules\\solmate\\src\\utils\\SafeTransferLib.sol": {
+      "lastModificationDate": 1670934214228,
+      "contentHash": "db5e8a3ee2df4fb8eb2d552a01753920",
+      "sourceName": "solmate/src/utils/SafeTransferLib.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../tokens/ERC20.sol"
+      ],
+      "versionPragmas": [
+        ">=0.8.0"
+      ],
+      "artifacts": [
+        "SafeTransferLib"
+      ]
+    },
+    "C:\\Users\\SASANK CHUNDURI\\Desktop\\Daivest\\node_modules\\.pnpm\\solmate@6.6.1\\node_modules\\solmate\\src\\tokens\\ERC20.sol": {
+      "lastModificationDate": 1670934214220,
+      "contentHash": "0c7c7ada139062536af09d69d96d395c",
+      "sourceName": "solmate/src/tokens/ERC20.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.0"
+      ],
+      "artifacts": [
+        "ERC20"
+      ]
+    },
+    "C:\\Users\\SASANK CHUNDURI\\Desktop\\Daivest\\node_modules\\.pnpm\\solmate@6.6.1\\node_modules\\solmate\\src\\utils\\FixedPointMathLib.sol": {
+      "lastModificationDate": 1670934214221,
+      "contentHash": "020387af8ef1e49036d116ebe7c4f90c",
+      "sourceName": "solmate/src/utils/FixedPointMathLib.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.0"
+      ],
+      "artifacts": [
+        "FixedPointMathLib"
+      ]
+    },
+    "C:\\Users\\SASANK CHUNDURI\\Desktop\\Daivest\\contracts\\DaiMock.sol": {
+      "lastModificationDate": 1670942354099,
+      "contentHash": "cb789faaaa35f3bd9b3fe2cf607697c1",
+      "sourceName": "contracts/DaiMock.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "solmate/src/tokens/ERC20.sol"
+      ],
+      "versionPragmas": [
+        ">=0.8.0"
+      ],
+      "artifacts": [
+        "DaiMock"
+      ]
+    },
+    "C:\\Users\\SASANK CHUNDURI\\Desktop\\Daivest\\node_modules\\.pnpm\\solmate@6.6.1\\node_modules\\solmate\\src\\mixins\\ERC4626.sol": {
+      "lastModificationDate": 1670934214220,
+      "contentHash": "b3b17f857a7cdf1ebd62b5c46e700f12",
+      "sourceName": "solmate/src/mixins/ERC4626.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../tokens/ERC20.sol",
+        "../utils/SafeTransferLib.sol",
+        "../utils/FixedPointMathLib.sol"
+      ],
+      "versionPragmas": [
+        ">=0.8.0"
+      ],
+      "artifacts": [
+        "ERC4626"
+      ]
+    }
+  }
+}
